@@ -1,1 +1,1 @@
-# playing-tic-tac-toe-with-react
+# Playing Tic Tac Toe With React
